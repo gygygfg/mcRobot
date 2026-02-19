@@ -1,0 +1,21 @@
+firstBot 上线
+raidBot0 上线
+ChatMessage {
+  json: { translate: 'event.minecraft.raid.victory.full' },
+  warn: [Function: debug] {
+    namespace: 'minecraft-protocol',
+    useColors: true,
+    color: 3,
+    extend: [Function: extend],
+    destroy: [Function: deprecated],
+    enabled: [Getter/Setter],
+    inspectOpts: {}
+  },
+  translate: 'event.minecraft.raid.victory.full',
+  bold: undefined,
+  italic: undefined,
+  underlined: undefined,
+  strikethrough: undefined,
+  obfuscated: undefined,
+  color: undefined
+}
